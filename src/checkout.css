@@ -1,0 +1,12 @@
+.checkout {
+    display: flex;
+    margin-top: 0%;
+}
+
+.left {
+    width: 65%;
+}
+
+.right {
+    width: 355;
+}

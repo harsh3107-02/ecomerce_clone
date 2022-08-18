@@ -1,0 +1,10 @@
+.hea {
+    background: #06283D;
+    height: 43px;
+}
+
+li {
+    display: inline;
+    color: white;
+    margin: 2px 8px;
+}
