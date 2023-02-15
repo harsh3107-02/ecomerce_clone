@@ -7,21 +7,17 @@ function Header2() {
     <div className="hea">
       <ul className="header2">
         <li>ALL</li>
-        <li>Best Sellers</li>
-        <li>Today's Deals</li>
-        <li>Mobiles</li>
-        <li>Coustomer Service</li>
-        <li>Books</li>
-        <li>Electronics</li>
-        <li>Prime</li>
-        <li>Fashion</li>
-        <li>New Releases</li>
-        <li>Home & Kitchen</li>
-        <li>Amazon Pay</li>
-        <li>Computers</li>
-        <li>Coupons</li>
-        <li>Toys & Games</li>
-        <li>Sell</li>
+        <li>Best deal</li>
+        <li>today"s deal</li>
+        <li>mobile</li>
+        <li>coustumer</li>
+        <li>book</li>
+        <li>Electronic</li>
+        <li>prime</li>
+        <li>fashion</li>
+        <li>new realease</li>
+        <li>home and kitchen</li>
+        <li>amazon pay</li>
       </ul>
     </div>
   );

@@ -1,9 +1,10 @@
-.slider {
-    position: relative;
-    height: 85vh;
-    display: flex;
+.ok {
+    /* display: flex; */
     justify-content: center;
-    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    /* max-width: 1500px; */
+    position: relative;
 }
 
 .image {
@@ -58,7 +59,22 @@
     margin-left: 5px;
 }
 
-.ok1 {
+.popup {
+    display: flex;
+    width: 450px;
+    height: 165px;
+    border: 1px solid black;
+    position: relative;
+    background: white;
+    /* display: none; */
+    bottom: 75rem;
+    left: 35rem;
+    align-items: center;
+    gap: 8px;
+}
+
+
+/* .ok1 {
     height: 310px;
     width: 230px;
-}
+} */

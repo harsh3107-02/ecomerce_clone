@@ -1,11 +1,12 @@
-import React from 'react'
-import './onebox.css'
+import React from "react";
+import "./onebox.css";
 
 function onebox() {
   return (
     <div className="boxone">
-      <h3>hhh</h3>
-      <a href=""><img src="" alt="" /></a>
+      <a href="">
+        <img src="" alt="" />
+      </a>
       <div className="smallImg">
         <img src="" alt="" />
         <img src="" alt="" />
@@ -13,7 +14,7 @@ function onebox() {
         <img src="" alt="" />
       </div>
     </div>
-  )
+  );
 }
 
-export default onebox
+export default onebox;
